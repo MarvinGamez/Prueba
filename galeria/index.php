@@ -9,7 +9,7 @@
 
 
 <body>
-
+<h2>img</h2>
 <div class="container">
     <div class="upload-form">
         <h2>GALERIA DINAMICA</h2>
